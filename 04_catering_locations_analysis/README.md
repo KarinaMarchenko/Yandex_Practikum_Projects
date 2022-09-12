@@ -24,4 +24,5 @@
 
 **Стек технологий:** python, pandas, matplotlib, plotly, seaborn, requests, folium
 
-Для просмотра элементов визуализации пройти по ссылке: https://nbviewer.org/github/KarinaMarchenko/Yandex_Practikum_Projects/blob/main/04_catering_locations_analysis/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BF%D0%B8%D1%82%D0%B0.ipynb
+Проект с интерактивными графиками доступен по ссылке:
+https://inlnk.ru/goGozn
