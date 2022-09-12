@@ -11,4 +11,5 @@
   
 **Стек технологий:** python, pandas, plotly
 
-Для просмотра элементов визуализации пройти по ссылке: https://nbviewer.org/github/KarinaMarchenko/Yandex_Practikum_Projects/blob/main/07_AB_test/AB_%D1%82%D0%B5%D1%81%D1%82.ipynb
+Проект с интерактивными графиками доступен по ссылке:
+https://inlnk.ru/9PVPek
